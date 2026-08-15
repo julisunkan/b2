@@ -1,0 +1,1646 @@
+# MASTER PROMPT FOR WRITING THE BOOK
+
+## BOOK TITLE
+
+**MASTERING THE ART OF FRENCH & SPANISH COOKING**
+
+### Subtitle
+
+Create an appropriate, compelling subtitle that communicates that this is a comprehensive guide to authentic French and Spanish cuisine, cooking techniques, ingredients, recipes, and culinary traditions.
+
+---
+
+# YOUR ROLE
+
+Act as a team of expert professionals working together:
+
+* An award-winning French chef
+* An experienced Spanish chef
+* A professional cookbook author
+* A culinary historian
+* A food researcher
+* A recipe developer
+* A professional food editor
+* A nutrition-conscious recipe editor
+* A cookbook publishing consultant
+* A professional copy editor
+* A food photographer/art director
+
+Your task is to write a **complete, original, comprehensive, professionally structured cookbook** titled:
+
+**MASTERING THE ART OF FRENCH & SPANISH COOKING**
+
+The finished manuscript should be suitable for publication as a high-quality print and digital cookbook.
+
+Do not write the book as a superficial list of recipes. Teach the reader how French and Spanish cooking works, why the techniques matter, how ingredients interact, and how to confidently prepare the dishes.
+
+The book should be useful to:
+
+* Complete beginners
+* Intermediate home cooks
+* Experienced home cooks
+* Food enthusiasts
+* People interested in European cuisine
+* Readers who want to understand authentic French and Spanish culinary traditions
+
+---
+
+# CORE WRITING PRINCIPLES
+
+Follow these principles throughout the entire manuscript.
+
+### 1. Be educational
+
+Explain the "why" behind techniques rather than simply giving instructions.
+
+For example, don't merely say:
+
+"Brown the chicken."
+
+Explain why browning develops flavor, what temperature is appropriate, what visual cues indicate proper browning, and what mistakes to avoid.
+
+### 2. Be practical
+
+Readers must be able to actually cook the recipes.
+
+Give:
+
+* Precise ingredient quantities
+* Preparation times
+* Cooking times
+* Temperatures where relevant
+* Number of servings
+* Clear step-by-step instructions
+* Equipment requirements where necessary
+* Troubleshooting advice
+* Storage instructions
+* Serving suggestions
+
+### 3. Preserve culinary authenticity
+
+Respect the culinary traditions of France and Spain.
+
+Do not arbitrarily rename dishes, alter traditional recipes, or present modern substitutions as authentic.
+
+When a recipe has multiple regional or historical variations, explain this clearly.
+
+Distinguish between:
+
+* Traditional version
+* Common modern variation
+* Optional adaptation
+
+### 4. Avoid stereotypes
+
+Do not reduce French cuisine to baguettes, cheese, wine, and butter or Spanish cuisine to paella and tapas.
+
+Represent the regional diversity of both countries.
+
+### 5. Use natural, engaging prose
+
+The writing should feel like a knowledgeable chef personally guiding the reader through the kitchen.
+
+Avoid repetitive phrases such as:
+
+"Get ready to embark on a culinary journey."
+
+Avoid excessive promotional language.
+
+Avoid unnecessary filler.
+
+### 6. Do not plagiarize
+
+All explanations, introductions, descriptions, recipe instructions, stories, and educational material must be written originally.
+
+Do not copy recipes or passages from existing cookbooks or websites.
+
+Common culinary facts may be explained in original language.
+
+### 7. Do not invent historical facts
+
+When discussing the origins of dishes, ingredients, techniques, or culinary traditions:
+
+* Use established historical knowledge.
+* Clearly distinguish documented history from culinary folklore.
+* Never fabricate dates, people, restaurants, or historical events.
+* If a precise historical claim is uncertain, phrase it cautiously.
+
+---
+
+# TARGET BOOK LENGTH
+
+Aim for approximately:
+
+**80,000–110,000 words**
+
+Target approximately:
+
+**250–350 pages**, depending on typography, images, recipe formatting, and page size.
+
+Include approximately:
+
+**120–150 recipes**
+
+Divide the recipes reasonably between French and Spanish cuisine.
+
+Do not artificially increase word count.
+
+Quality is more important than length.
+
+---
+
+# INTENDED READER
+
+Write for an international English-speaking audience.
+
+Assume the reader may not understand French or Spanish culinary terminology.
+
+Whenever an unfamiliar culinary term is introduced:
+
+1. Give the original term.
+2. Give the English meaning.
+3. Explain what it means in practical cooking terms.
+
+Example:
+
+**Mirepoix** — a mixture of diced onion, carrot, and celery used as a foundational flavor base in many French preparations.
+
+---
+
+# BOOK STRUCTURE
+
+Use the following overall structure.
+
+# FRONT MATTER
+
+## Title Page
+
+MASTERING THE ART OF FRENCH & SPANISH COOKING
+
+Create an elegant subtitle.
+
+Include:
+
+**By [AUTHOR NAME]**
+
+Do not invent an author name unless explicitly instructed.
+
+---
+
+## Copyright Page
+
+Create a professional copyright page containing appropriate standard cookbook copyright language.
+
+Do not claim rights or trademarks that do not exist.
+
+Include a general disclaimer stating that cooking times, temperatures, and ingredient information should be adapted to the reader's equipment, ingredients, and circumstances where appropriate.
+
+---
+
+## Dedication
+
+Write a short, elegant dedication appropriate for a culinary book.
+
+---
+
+## Table of Contents
+
+Create a complete hierarchical table of contents covering every chapter and major section.
+
+Do not list individual recipes unless doing so improves navigation.
+
+---
+
+# INTRODUCTION
+
+Write a compelling introduction explaining:
+
+* What French cooking represents
+* What Spanish cooking represents
+* Why these cuisines are worth learning
+* The similarities between them
+* Their important differences
+* The role of regional identity
+* The importance of ingredients
+* The importance of technique
+* How this book is organized
+* How readers can progress from beginner to confident cook
+
+End the introduction with an encouraging message to the reader.
+
+---
+
+# HOW TO USE THIS BOOK
+
+Explain:
+
+* How recipes are organized
+* How serving sizes work
+* How measurements work
+* How cooking times should be interpreted
+* How difficulty levels work
+* How to prepare before cooking
+* Why mise en place matters
+* How to read recipe instructions
+* How to adapt recipes responsibly
+
+---
+
+# KITCHEN FOUNDATIONS
+
+Create a comprehensive introductory section covering the essential knowledge required before beginning the recipes.
+
+## Essential Kitchen Equipment
+
+Discuss:
+
+* Chef's knife
+* Paring knife
+* Bread knife
+* Cutting boards
+* Saucepan
+* Stockpot
+* Dutch oven
+* Sauté pan
+* Frying pan
+* Roasting pan
+* Baking trays
+* Mixing bowls
+* Whisk
+* Wooden spoon
+* Spatula
+* Tongs
+* Ladle
+* Fine-mesh strainer
+* Colander
+* Grater
+* Mandoline
+* Kitchen scale
+* Measuring cups and spoons
+* Thermometer
+* Blender or food processor
+
+Explain which equipment is essential and which is optional.
+
+---
+
+# KNIFE SKILLS
+
+Teach:
+
+* Proper knife grip
+* Safe cutting position
+* Chopping
+* Dicing
+* Slicing
+* Julienne
+* Brunoise
+* Chiffonade
+* Mincing
+* Carving
+* Knife maintenance
+* Sharpening
+* Safety
+
+---
+
+# ESSENTIAL COOKING TECHNIQUES
+
+Explain thoroughly:
+
+* Sautéing
+* Sweating
+* Searing
+* Roasting
+* Baking
+* Grilling
+* Broiling
+* Braising
+* Stewing
+* Poaching
+* Simmering
+* Boiling
+* Blanching
+* Frying
+* Deep-frying
+* Pan-frying
+* Deglazing
+* Reducing
+* Emulsifying
+* Caramelizing
+* Confit
+* Flambéing
+* Slow cooking
+
+For every technique explain:
+
+* What it is
+* Why it works
+* How to perform it
+* Common mistakes
+* How to know when it has been done correctly
+
+---
+
+# PART I — THE ART OF FRENCH COOKING
+
+## Chapter 1 — Understanding French Cuisine
+
+Explain:
+
+* The philosophy of French cooking
+* French culinary history
+* Regional diversity
+* The importance of seasonality
+* Classical French cuisine
+* Home-style French cooking
+* Modern French cuisine
+* The influence of neighboring regions and cultures
+
+Introduce major culinary regions including, where appropriate:
+
+* Île-de-France
+* Normandy
+* Brittany
+* Alsace
+* Burgundy
+* Provence
+* Occitanie
+* Loire Valley
+* Bordeaux region
+* French Alps
+* Basque-influenced areas
+
+Avoid presenting administrative regions as rigid culinary boundaries when traditions overlap.
+
+---
+
+# Chapter 2 — Essential French Ingredients
+
+Discuss and explain the culinary use of:
+
+* Butter
+* Olive oil
+* Cream
+* Cheese
+* Eggs
+* Flour
+* Garlic
+* Shallots
+* Onions
+* Leeks
+* Carrots
+* Celery
+* Mushrooms
+* Tomatoes
+* Potatoes
+* Fresh herbs
+* Tarragon
+* Thyme
+* Rosemary
+* Parsley
+* Chervil
+* Bay leaf
+* Dijon mustard
+* Vinegar
+* Stocks
+* Wine as a cooking ingredient
+* Lentils
+* Beans
+* Seafood
+* Poultry
+* Beef
+* Pork
+* Lamb
+
+Explain substitutions where practical.
+
+---
+
+# Chapter 3 — The Foundations of French Sauce
+
+Teach classic sauces and sauce-making principles.
+
+Include:
+
+* Béchamel
+* Velouté
+* Espagnole
+* Tomato sauce
+* Hollandaise
+
+Also cover:
+
+* Pan sauces
+* Reduction sauces
+* Butter sauces
+* Cream sauces
+* Mustard sauces
+* Herb sauces
+* Vinaigrettes
+
+Explain:
+
+* Roux
+* Reduction
+* Emulsion
+* Deglazing
+* Mounting with butter
+* Seasoning
+* Correct consistency
+
+---
+
+# Chapter 4 — French Stocks, Broths and Flavor Bases
+
+Teach:
+
+* Vegetable stock
+* Chicken stock
+* Beef stock
+* Fish stock
+* Court-bouillon
+* Mirepoix
+* Bouquet garni
+
+Explain how these foundations are used in later recipes.
+
+---
+
+# Chapter 5 — French Breakfast and Brunch
+
+Include appropriate recipes such as:
+
+* Croissants
+* Pain perdu
+* Crêpes
+* Galettes
+* French omelet
+* Brioche
+* Café-style breakfast dishes
+* Savory breakfast preparations
+
+For every recipe use the standardized recipe format defined later.
+
+---
+
+# Chapter 6 — French Appetizers and Hors d'Oeuvres
+
+Include recipes such as:
+
+* Gougères
+* Oeufs mayonnaise
+* Pâté
+* Terrine
+* French-style savory tart
+* Cheese-based appetizers
+* Vegetable appetizers
+* Seafood appetizers
+
+---
+
+# Chapter 7 — French Soups and Salads
+
+Include appropriate recipes such as:
+
+* French onion soup
+* Vichyssoise
+* Potage
+* Soupe au pistou
+* Salade Niçoise
+* Green salads
+* Lentil salads
+* Warm vegetable salads
+
+---
+
+# Chapter 8 — French Poultry and Meat
+
+Include classic and approachable dishes such as:
+
+* Coq au vin
+* Coq au vin blanc
+* Chicken fricassée
+* Duck preparations
+* Beef bourguignon
+* Steak au poivre
+* Blanquette de veau
+* Veal preparations
+* Lamb dishes
+* Pork dishes
+
+Include appropriate regional context.
+
+---
+
+# Chapter 9 — French Seafood
+
+Include dishes featuring:
+
+* Cod
+* Salmon
+* Mussels
+* Shrimp
+* Scallops
+* Oysters
+* White fish
+* Other appropriate seafood
+
+Possible classic preparations may include:
+
+* Moules marinières
+* Bouillabaisse
+* Fish meunière
+* Provençal seafood dishes
+
+Do not claim a recipe is the definitive version if regional variations exist.
+
+---
+
+# Chapter 10 — French Vegetables and Side Dishes
+
+Include:
+
+* Ratatouille
+* Gratin dauphinois
+* Pommes purée
+* Pommes boulangère
+* Haricots verts
+* Glazed carrots
+* Roasted vegetables
+* French-style mushrooms
+* Braised leeks
+* Seasonal vegetable dishes
+
+---
+
+# Chapter 11 — French Breads and Pastries
+
+Teach:
+
+* Baguette
+* Brioche
+* Croissant
+* Pain au chocolat
+* Fougasse
+* Tart dough
+* Shortcrust pastry
+* Choux pastry
+
+Explain the fundamentals of:
+
+* Yeast
+* Gluten
+* Fermentation
+* Lamination
+* Proofing
+* Pastry temperature control
+
+---
+
+# Chapter 12 — French Desserts
+
+Include recipes such as:
+
+* Crème brûlée
+* Crème caramel
+* Mousse au chocolat
+* Tarte Tatin
+* Clafoutis
+* Madeleines
+* Profiteroles
+* Chocolate tart
+* Fruit tarts
+* Île flottante
+* Seasonal French desserts
+
+---
+
+# PART II — THE ART OF SPANISH COOKING
+
+# Chapter 13 — Understanding Spanish Cuisine
+
+Explain:
+
+* Spanish culinary history
+* Regional diversity
+* Mediterranean influence
+* Atlantic influence
+* Moorish influence
+* Agricultural traditions
+* Seafood culture
+* Olive oil
+* Communal dining
+* Tapas culture
+
+Discuss major culinary regions including:
+
+* Andalusia
+* Catalonia
+* Valencia
+* Galicia
+* Basque Country
+* Asturias
+* Madrid
+* Castilla y León
+* Castilla-La Mancha
+* Murcia
+* Aragón
+* Extremadura
+* Canary Islands
+
+Make clear that Spanish cuisine is highly regional.
+
+---
+
+# Chapter 14 — Essential Spanish Ingredients
+
+Discuss:
+
+* Extra-virgin olive oil
+* Garlic
+* Onions
+* Tomatoes
+* Peppers
+* Smoked paprika
+* Saffron
+* Sherry vinegar
+* Olives
+* Almonds
+* Potatoes
+* Beans
+* Chickpeas
+* Lentils
+* Rice
+* Jamón-style cured meats
+* Chorizo
+* Manchego and other Spanish cheeses
+* Seafood
+* Fresh herbs
+
+Explain substitutions for ingredients that may be difficult to find internationally.
+
+---
+
+# Chapter 15 — Tapas: The Heart of Spanish Dining
+
+Explain:
+
+* What tapas are
+* Their cultural role
+* How tapas are served
+* How to build a tapas spread
+
+Include recipes such as:
+
+* Patatas bravas
+* Gambas al ajillo
+* Tortilla española
+* Croquetas
+* Pimientos de padrón
+* Albóndigas
+* Marinated olives
+* Garlic mushrooms
+* Spanish-style grilled vegetables
+* Various seafood tapas
+
+---
+
+# Chapter 16 — Spanish Soups and Salads
+
+Include:
+
+* Gazpacho
+* Salmorejo
+* Ajo blanco
+* Spanish bean soups
+* Lentil soups
+* Regional salads
+* Tomato salads
+* Orange and olive salads
+* Seafood salads
+
+---
+
+# Chapter 17 — Paella and Spanish Rice Dishes
+
+Teach:
+
+* What authentic paella means
+* Regional variations
+* Choosing rice
+* The role of the pan
+* Stock preparation
+* Saffron
+* Socarrat
+* Heat management
+
+Include recipes such as:
+
+* Paella Valenciana
+* Seafood paella
+* Mixed paella
+* Vegetable paella
+* Arroz negro
+* Other regional rice dishes
+
+Do not present every rice dish as "paella."
+
+---
+
+# Chapter 18 — Spanish Seafood
+
+Include recipes featuring:
+
+* Prawns
+* Squid
+* Octopus
+* Mussels
+* Clams
+* Cod
+* Sardines
+* Anchovies
+* Other suitable seafood
+
+Discuss regional differences between Atlantic and Mediterranean seafood traditions.
+
+---
+
+# Chapter 19 — Spanish Meat and Poultry
+
+Include:
+
+* Chicken dishes
+* Pork dishes
+* Beef dishes
+* Lamb dishes
+* Meatballs
+* Stews
+* Slow-cooked regional dishes
+
+Include appropriate dishes such as:
+
+* Pollo al ajillo
+* Albóndigas
+* Spanish-style pork preparations
+* Regional lamb stews
+
+---
+
+# Chapter 20 — Spanish Vegetables and Side Dishes
+
+Include:
+
+* Patatas bravas
+* Spanish roasted potatoes
+* Pisto
+* Escalivada
+* Garlic vegetables
+* Green beans
+* Peppers
+* Eggplant dishes
+* Chickpeas
+* White beans
+* Lentils
+
+---
+
+# Chapter 21 — Spanish Breads and Savory Pastries
+
+Include:
+
+* Rustic Spanish breads
+* Pan con tomate
+* Empanadas
+* Empanadillas
+* Regional breads
+* Savory pastries
+
+---
+
+# Chapter 22 — Spanish Desserts
+
+Include:
+
+* Churros
+* Crema catalana
+* Flan
+* Tarta de Santiago
+* Torrijas
+* Spanish rice pudding
+* Almond desserts
+* Citrus desserts
+* Regional pastries
+
+---
+
+# PART III — MASTERING THE TECHNIQUES
+
+Create a dedicated advanced cooking section.
+
+Include detailed lessons on:
+
+## Heat Control
+
+Explain:
+
+* Low heat
+* Medium heat
+* High heat
+* Carryover cooking
+* Pan temperature
+* Oven temperature
+* Moist versus dry heat
+
+## Building Flavor
+
+Explain:
+
+* Browning
+* Caramelization
+* Maillard reaction
+* Acidity
+* Salt
+* Fat
+* Sweetness
+* Bitterness
+* Umami
+* Herbs and spices
+
+## Deglazing
+
+Teach how to turn the browned bits in a pan into a sauce.
+
+## Reduction
+
+Explain how reduction changes:
+
+* Flavor
+* Saltiness
+* Acidity
+* Texture
+
+## Emulsions
+
+Teach:
+
+* Mayonnaise
+* Aioli
+* Hollandaise
+* Vinaigrettes
+* Butter-based emulsions
+
+## Working With Seafood
+
+Teach:
+
+* Selecting fresh seafood
+* Storage
+* Cleaning
+* Deboning
+* Cooking
+* Avoiding overcooking
+
+## Working With Meat
+
+Teach:
+
+* Selecting cuts
+* Seasoning
+* Searing
+* Resting
+* Carving
+* Doneness
+
+## Cooking Rice
+
+Explain:
+
+* Rice-to-liquid ratios
+* Different rice types
+* Absorption
+* Stirring versus not stirring
+* Resting
+* Texture
+
+## Baking Fundamentals
+
+Explain:
+
+* Measuring flour
+* Gluten
+* Yeast
+* Fermentation
+* Eggs
+* Butter
+* Sugar
+* Temperature
+* Oven behavior
+
+---
+
+# PART IV — FRENCH AND SPANISH MENU PLANNING
+
+Teach the reader how to create complete meals.
+
+Include:
+
+## A Classic French Dinner
+
+Create a complete menu with:
+
+* Aperitif
+* Starter
+* Main course
+* Side dish
+* Dessert
+* Beverage pairing
+
+## A Spanish Tapas Evening
+
+Create a balanced tapas menu.
+
+## French Dinner for Two
+
+Create an elegant but manageable menu.
+
+## Spanish Family Feast
+
+Create a generous family-style menu.
+
+## French Brunch
+
+Create a complete brunch.
+
+## Mediterranean Seafood Dinner
+
+Create a seafood-focused meal.
+
+## French and Spanish Celebration Menu
+
+Create a sophisticated combined menu.
+
+For every menu, explain:
+
+* What can be prepared ahead
+* What should be cooked immediately
+* Suggested sequence
+* Timing
+* Serving order
+
+---
+
+# PART V — INGREDIENTS AND SUBSTITUTIONS
+
+Create a comprehensive ingredient reference.
+
+For difficult-to-find ingredients, provide:
+
+* Original ingredient
+* What it tastes like
+* Its culinary purpose
+* Possible substitute
+* How substitution may affect the recipe
+
+Do not claim substitutes are identical when they are not.
+
+---
+
+# PART VI — FRENCH AND SPANISH CULINARY DICTIONARY
+
+Create a useful glossary.
+
+For each term include:
+
+**Original Term — English Meaning — Explanation**
+
+Include terms such as:
+
+French:
+
+* Mise en place
+* Mirepoix
+* Bouquet garni
+* Roux
+* Sauté
+* Julienne
+* Brunoise
+* Confit
+* Crème fraîche
+* Bain-marie
+* Deglacer
+
+Spanish:
+
+* Sofrito
+* Picada
+* Tapas
+* Raciones
+* Socarrat
+* Ajo
+* Pimentón
+* Alioli
+* Tostada
+* Empanada
+
+---
+
+# RECIPE DEVELOPMENT RULES
+
+Every recipe must follow this exact general structure.
+
+## RECIPE TITLE
+
+Include the original French or Spanish name where appropriate.
+
+### Introduction
+
+Write a concise paragraph explaining:
+
+* What the dish is
+* Where it belongs in the cuisine
+* Why it is important or enjoyable
+* Any relevant regional information
+
+### Recipe Information
+
+**Prep Time:**
+**Cook Time:**
+**Total Time:**
+**Servings:**
+**Difficulty:**
+**Cuisine:**
+
+### Equipment
+
+List only equipment genuinely required.
+
+### Ingredients
+
+Give precise quantities.
+
+Use both metric and common U.S. measurements where practical.
+
+Example:
+
+**250 g (8.8 oz) flour**
+
+For liquids:
+
+**240 ml (1 cup) milk**
+
+Do not use vague quantities such as "some flour" or "a little salt" unless there is a legitimate culinary reason.
+
+### Instructions
+
+Use numbered steps.
+
+Each step should contain enough information for a beginner to understand what to do.
+
+Include visual or sensory cues where useful:
+
+* "until golden brown"
+* "until the onions are translucent"
+* "until the sauce coats the back of a spoon"
+
+Avoid unnecessarily precise cooking times when visual cues are more reliable.
+
+### Chef's Tips
+
+Give 2–5 useful professional tips.
+
+### Common Mistakes
+
+List the most likely mistakes and how to prevent them.
+
+### Variations
+
+Give appropriate variations where they make culinary sense.
+
+Do not create arbitrary variations simply to increase word count.
+
+### Substitutions
+
+Mention practical alternatives when appropriate.
+
+### Serving Suggestions
+
+Explain how the dish can be served.
+
+### Storage
+
+Explain:
+
+* Refrigeration
+* Freezing where appropriate
+* Reheating
+* Recommended storage duration where reasonably established
+
+Do not give unsafe food-storage advice.
+
+### Cultural Note
+
+Include a short cultural or regional note when appropriate.
+
+---
+
+# RECIPE QUALITY CONTROL
+
+Before accepting each recipe, internally check:
+
+1. Are all ingredients used?
+2. Are ingredient quantities plausible?
+3. Are cooking times realistic?
+4. Are temperatures appropriate?
+5. Does the recipe produce the intended dish?
+6. Are the instructions logically ordered?
+7. Are there missing preparation steps?
+8. Is the recipe technically feasible in a normal home kitchen?
+9. Are substitutions sensible?
+10. Is the dish being represented accurately?
+11. Are safety considerations adequately addressed?
+12. Is the recipe sufficiently distinct from other recipes?
+
+Never knowingly publish a recipe with contradictory quantities or instructions.
+
+---
+
+# NUTRITION AND FOOD SAFETY
+
+Where useful, include practical information concerning:
+
+* Food safety
+* Cross-contamination
+* Proper cooking temperatures
+* Seafood handling
+* Meat handling
+* Egg safety
+* Storage
+* Allergens
+
+Do not make medical claims.
+
+Do not present the cookbook as a medical or therapeutic diet book.
+
+Do not invent nutritional numbers.
+
+If nutritional information is included, clearly label it as an estimate and calculate it consistently from the stated ingredients.
+
+---
+
+# CULTURAL AUTHENTICITY
+
+Whenever discussing a traditional dish:
+
+* Identify its country.
+* Identify its region when appropriate.
+* Explain regional variations.
+* Avoid declaring one version universally "authentic" when multiple traditional versions exist.
+* Do not erase regional differences.
+* Do not mix French and Spanish traditions incorrectly.
+
+For example, explain that "Spanish cuisine" is not a single uniform cuisine and that dishes such as paella have strong regional identities.
+
+---
+
+# FRENCH VS SPANISH COMPARISON
+
+Create a chapter comparing the two culinary traditions.
+
+Discuss:
+
+* Olive oil versus butter
+* Sauces
+* Herbs
+* Spices
+* Seafood
+* Meat
+* Rice
+* Bread
+* Vegetables
+* Dining culture
+* Regional diversity
+* Seasonality
+* Preservation
+* Communal eating
+* Desserts
+* Breakfast traditions
+
+The comparison should be respectful and informative rather than competitive.
+
+---
+
+# MASTER RECIPE INDEX
+
+At the end of the book create an alphabetical recipe index.
+
+Include every recipe.
+
+---
+
+# MASTER INGREDIENT INDEX
+
+Create an alphabetical ingredient index.
+
+Include important ingredients and the recipes in which they appear.
+
+---
+
+# CONVERSION GUIDE
+
+Create a useful reference covering:
+
+* Grams ↔ ounces
+* Kilograms ↔ pounds
+* Milliliters ↔ fluid ounces
+* Liters ↔ quarts
+* Celsius ↔ Fahrenheit
+* Common spoon measurements
+* Oven temperature conversions
+
+Make the conversion information mathematically accurate.
+
+---
+
+# SEASONAL COOKING GUIDE
+
+Create a practical seasonal guide explaining how readers can adapt French and Spanish cooking to seasonal ingredients.
+
+Discuss:
+
+* Spring
+* Summer
+* Autumn/Fall
+* Winter
+
+Give examples of suitable ingredients and dishes for each season.
+
+---
+
+# BEGINNER'S LEARNING PATH
+
+Create a progression showing readers which recipes and techniques to learn first.
+
+### Level 1 — Beginner
+
+Simple dishes focusing on:
+
+* Knife skills
+* Eggs
+* Vegetables
+* Basic sauces
+* Simple seafood
+* Simple desserts
+
+### Level 2 — Intermediate
+
+Introduce:
+
+* Braising
+* Stocks
+* Complex sauces
+* Pastry
+* Rice
+* Seafood
+* Meat
+
+### Level 3 — Advanced
+
+Introduce:
+
+* Laminated dough
+* Complex sauces
+* Multi-component dishes
+* Advanced pastry
+* Sophisticated menu planning
+
+---
+
+# PHOTO AND DESIGN GUIDANCE
+
+Throughout the manuscript, identify recipes and sections that would benefit from photography.
+
+Use markers such as:
+
+**[PHOTO SUGGESTION: Finished dish]**
+
+or
+
+**[PHOTO SUGGESTION: Step-by-step preparation]**
+
+or
+
+**[PHOTO SUGGESTION: Essential French ingredients]**
+
+Do not create actual images unless specifically instructed.
+
+Provide useful photography suggestions describing:
+
+* Subject
+* Composition
+* Angle
+* Props
+* Background
+* Important visual details
+
+The finished book should have a sophisticated culinary aesthetic.
+
+---
+
+# WRITING STYLE
+
+The tone should be:
+
+* Warm
+* Sophisticated
+* Educational
+* Encouraging
+* Authoritative
+* Accessible
+* Sensory
+* Professional
+
+Write as though an experienced chef is personally teaching the reader.
+
+Use vivid but restrained descriptions of:
+
+* Aroma
+* Texture
+* Flavor
+* Color
+* Temperature
+* Sound
+
+Avoid purple prose.
+
+Avoid excessive adjectives.
+
+Avoid repetition.
+
+---
+
+# FORMATTING RULES
+
+Use clear hierarchy.
+
+Format:
+
+# PART
+
+## CHAPTER
+
+### SECTION
+
+#### SUBSECTION
+
+For recipes:
+
+# Recipe Name
+
+Use consistent formatting for:
+
+* Prep Time
+* Cook Time
+* Total Time
+* Servings
+* Difficulty
+* Ingredients
+* Instructions
+* Tips
+* Variations
+* Storage
+* Cultural Notes
+
+Keep formatting consistent from the first recipe to the last.
+
+---
+
+# IMPORTANT: DO NOT GENERATE THE ENTIRE BOOK IN ONE RESPONSE
+
+Writing the entire book in a single response will cause quality loss, omissions, repetition, and inconsistent recipes.
+
+Instead, write the book sequentially.
+
+Follow this workflow.
+
+## PHASE 1 — BOOK BLUEPRINT
+
+First create:
+
+1. Final title
+2. Subtitle
+3. Target audience
+4. Book promise
+5. Detailed table of contents
+6. Estimated word count per chapter
+7. Number of recipes per chapter
+8. Recipe distribution between French and Spanish cuisine
+9. Editorial style guide
+10. Recurring recipe template
+11. Cultural authenticity guidelines
+12. Photography plan
+
+Then stop and wait for approval.
+
+---
+
+# PHASE 2 — FRONT MATTER
+
+After approval, write:
+
+1. Title page
+2. Copyright page
+3. Dedication
+4. Table of contents
+5. Introduction
+6. How to use this book
+
+Then stop.
+
+---
+
+# PHASE 3 — FOUNDATIONS
+
+Write:
+
+1. Kitchen equipment
+2. Knife skills
+3. Cooking techniques
+4. Flavor fundamentals
+5. Stocks and foundational preparations
+6. Ingredient fundamentals
+
+Then stop.
+
+---
+
+# PHASE 4 — FRENCH CUISINE
+
+Write the French section chapter by chapter.
+
+For each chapter:
+
+1. Write the chapter introduction.
+2. Explain the culinary principles.
+3. Explain relevant ingredients and techniques.
+4. Write the recipes.
+5. Add chef's tips.
+6. Add common mistakes.
+7. Add cultural notes.
+8. Add photography suggestions.
+
+After completing each chapter, perform a quality-control review before moving to the next.
+
+---
+
+# PHASE 5 — SPANISH CUISINE
+
+Repeat the same process for the Spanish section.
+
+Pay particular attention to regional diversity.
+
+---
+
+# PHASE 6 — ADVANCED TECHNIQUES
+
+Write the advanced technique section.
+
+Make this section highly practical and educational.
+
+---
+
+# PHASE 7 — MENU PLANNING
+
+Create the complete French and Spanish menus.
+
+Include preparation schedules.
+
+---
+
+# PHASE 8 — REFERENCE SECTION
+
+Write:
+
+* Ingredient guide
+* Substitution guide
+* Culinary dictionary
+* Conversion guide
+* Seasonal guide
+* Beginner learning path
+* Recipe index
+* Ingredient index
+
+---
+
+# PHASE 9 — FINAL EDITORIAL REVIEW
+
+After the manuscript is complete, perform a complete editorial audit.
+
+Check for:
+
+### Structural problems
+
+* Missing chapters
+* Missing recipes
+* Duplicate chapters
+* Duplicate recipes
+* Incorrect numbering
+* Broken table of contents
+
+### Recipe problems
+
+* Missing ingredients
+* Ingredient quantities that don't match instructions
+* Incorrect cooking temperatures
+* Contradictory instructions
+* Unrealistic cooking times
+* Missing equipment
+* Missing serving information
+
+### Language problems
+
+* Grammar
+* Spelling
+* Awkward wording
+* Repetition
+* Inconsistent terminology
+* Inconsistent capitalization
+
+### Cultural problems
+
+* Incorrect origins
+* Unsupported historical claims
+* Misrepresentation of regional traditions
+* Incorrect terminology
+* French/Spanish cultural confusion
+
+### Publishing problems
+
+* Inconsistent headings
+* Inconsistent recipe formatting
+* Missing indexes
+* Missing copyright information
+* Missing disclaimers
+* Poor chapter transitions
+
+---
+
+# FINAL QUALITY STANDARD
+
+Before declaring the book finished, ask:
+
+**Would an experienced cookbook editor accept this manuscript for professional publication?**
+
+If not, revise it.
+
+The finished book should feel like a coherent culinary education rather than an AI-generated recipe compilation.
+
+Every chapter should teach something.
+
+Every recipe should have a purpose.
+
+Every technique should help the reader become a better cook.
+
+Every cultural section should add genuine understanding.
+
+The reader should finish the book feeling capable of entering a kitchen, understanding French and Spanish culinary principles, selecting ingredients intelligently, executing classic recipes, adapting techniques, and creating their own meals.
+
+---
+
+# IMPORTANT OUTPUT RULE
+
+Do not skip ahead.
+
+Do not summarize future chapters instead of writing them.
+
+Do not say "etc." when a complete list is required.
+
+Do not use filler text such as:
+
+"[Add recipes here]"
+
+"[Continue with recipes]"
+
+"[Insert historical information]"
+
+Actually write the requested material during each phase.
+
+When a phase is complete, stop and clearly state:
+
+**PHASE COMPLETE — READY FOR THE NEXT PHASE**
+
+Then wait for the instruction to continue.
+
+---
+
+# BEGIN NOW
+
+Start with **PHASE 1 — BOOK BLUEPRINT**.
+
+Create the complete professional blueprint for:
+
+**MASTERING THE ART OF FRENCH & SPANISH COOKING**
+
+Do not write the full manuscript yet.
+
+Focus on creating an exceptionally detailed blueprint that can serve as the master plan for writing the entire book.
