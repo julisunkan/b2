@@ -28,3 +28,10 @@ uri = "file://attached_assets/mastering_french_spanish_cooking_phase5_spanish_cu
 type = "word_document"
 title = "Mastering French & Spanish Cooking — Phase 5"
 description = "Phase 5 Spanish cuisine section covering Chapters 18–27, with regional context, ingredients, tapas, rice dishes, seafood, meat, vegetables, breads, pastries, and desserts."
+
+[[outputs]]
+id = "tgwxKgih5HPmVKctHkAz1"
+uri = "file://attached_assets/mastering_french_spanish_cooking_complete_manuscript.docx"
+type = "word_document"
+title = "Mastering the Art of French & Spanish Cooking — Complete Manuscript"
+description = "A single DOCX containing Phases 1–9 in order, with phase breaks and a complete-manuscript header/footer."
